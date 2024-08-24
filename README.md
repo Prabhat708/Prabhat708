@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m Prabhat Verma
+🔭 I’m Prabhat Verma \n
 🌱 I’m currently pursuing b.tech with specialization in Computer science and design.
 👯 I’m looking for opportunities to show my smart working capabilities. 
 📫 How to reach me: Visit my portfolio website https://prabhat.great-site.net

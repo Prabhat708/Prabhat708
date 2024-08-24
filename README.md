@@ -1,4 +1,8 @@
 ## Hi there 👋
+🔭 I’m Prabhat Verma
+🌱 I’m currently pursuing b.tech with specialization in Computer science and design.
+👯 I’m looking for opportunities to show my smart working capabilities. 
+📫 How to reach me: Visit my portfolio website https://prabhat.great-site.net
 
 <!--
 **Prabhat708/Prabhat708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

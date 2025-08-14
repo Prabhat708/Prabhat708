@@ -38,12 +38,11 @@ console.log(Introduction);
   ```
 </p>
 
-## ✨ Lifelong learner 📚
+## ✨ Lifelong learner 📚 Problem Solver & Coder 💡
+- 🧩 Solve challenges with me on [LeetCode](https://leetcode.com/u/Prabhat708/).
 - 🌱 Embracing each day as a learning opportunity; check my progress on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prabhat708/).
 - 💻 Explore my [Portfolio](https://prabhat.great-site.net/) for a closer look at my journey.
 - 📂 View my code repositories on [GitHub](https://github.com/prabhat708).
-
-
 <!--Profile Count Badge-->
 
 

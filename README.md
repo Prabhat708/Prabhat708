@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Shivom Verma!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prabhat Verma!
 *Software Engineer (Developer / Programmer)*
 <br />
 
@@ -19,16 +19,16 @@
 
 ```javascript
 const Introduction = {
-  name: "Shivom Verma",
+  name: "Prabhat Verma",
   title: "Full Stack Developer",
   skills: {
-    languages: ["MERN", "PHP", "HTML", "CSS", "JavaScript", "C#", "Python"],
+    languages: ["MERN", "HTML", "CSS", "JavaScript", "Python"],
     expertise: ["RESTful APIs", "Innovative Web Applications"]
   },
   education: {
     degree: "B.Tech",
     university: "Dr. A.P.J. Abdul Kalam Technical University",
-    graduationYear: 2023
+    graduationYear: 2025
   },
   certifications: ["Web Development", "MySQL"]
 };
@@ -39,18 +39,14 @@ console.log(Introduction);
 </p>
 
 ## ✨ Lifelong learner 📚
-- 🌱 Embracing each day as a learning opportunity; check my progress on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sjnverma).
-- 💻 Explore my [Portfolio](https://shivom.great-site.net/) for a closer look at my journey.
-- 📂 View my code repositories on [GitHub](https://github.com/shivomv).
+- 🌱 Embracing each day as a learning opportunity; check my progress on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prabhat708/).
+- 💻 Explore my [Portfolio](https://prabhat.great-site.net/) for a closer look at my journey.
+- 📂 View my code repositories on [GitHub](https://github.com/prabhat708).
 
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shivomv&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="shivomv" style="padding-right:20px;" />
-</p>
 
----
-<br />
+
 
 <!--Languages and Tools Section-->
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
@@ -63,8 +59,8 @@ console.log(Introduction);
 <!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=shivomv">
-    <img src="https://github-profile-trophy.vercel.app/?username=shivomv&row=2&column=4&margin-w=20&margin-h=20&padding=5" alt="GitHub Trophies">
+  <a href="https://github-profile-trophy.vercel.app/?username=prabhat708">
+    <img src="https://github-profile-trophy.vercel.app/?username=prabhat708&row=2&column=4&margin-w=20&margin-h=20&padding=5" alt="GitHub Trophies">
   </a>
 </p>
 <br />
@@ -77,7 +73,7 @@ console.log(Introduction);
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/shivomv">
+        <a href="https://github.com/prabhat708">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivomv&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
@@ -85,7 +81,7 @@ console.log(Introduction);
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/shivomv">
+        <a href="https://github.com/prabhat708">
           <img align="center" src="https://streak-stats.demolab.com?user=shivomv&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
@@ -95,7 +91,7 @@ console.log(Introduction);
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/shivomv/shivomv">
+        <a href="https://github.com/prabhat708/prabhat708">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shivomv&repo=shivomv&theme=nightowl&show_owner=true" alt="shivomv" />
         </a>
       </p>
@@ -103,7 +99,7 @@ console.log(Introduction);
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/shivomv">
+        <a href="https://github.com/prabhat708">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=shivomv&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
@@ -134,19 +130,19 @@ console.log(Introduction);
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/shivom-verma-252012240" target="_blank">
+ <a href="https://www.linkedin.com/in/prabhat708" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:shivom.iert@gmail.com" target="_blank">
+<a href="mailto:prabhat708431@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=shivom.iert@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/shivom.verma.182" target="_blank">
+<a href="https://www.instagram.com/Prabhat_708" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=shivom.verma.182 Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/shivom261201" target="_blank">
+<a href="https://twitter.com/prabhat708" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="shivom261201" style="margin-bottom: 5px;" />
 </a>
 </div>

@@ -1,5 +1,5 @@
 <!--Banner-->
-![shivomv Banner Image](./banner1.png)
+![ Banner Image](./banner1.png)
 
 <!--Night Owl image-->
 <div>

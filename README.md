@@ -55,18 +55,6 @@ console.log(Introduction);
 </p>
 <br />
 
-
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=prabhat708">
-    <img src="https://github-profile-trophy.vercel.app/?username=prabhat708&row=2&column=4&margin-w=20&margin-h=20&padding=5" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-
-
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->

@@ -19,18 +19,19 @@
 
 ```javascript
 const Introduction = {
-  name: "Prabhat Verma",
-  title: "Full Stack Developer",
-  skills: {
-    languages: ["MERN", "HTML", "CSS", "JavaScript", "Python"],
+  Name: "Prabhat Verma",
+  Title: "Full Stack Developer",
+  Skills: {
+    Languages: ["MERN", "HTML", "CSS", "JavaScript", "Python"],
     expertise: ["RESTful APIs", "Innovative Web Applications"]
   },
-  education: {
-    degree: "B.Tech",
-    university: "Dr. A.P.J. Abdul Kalam Technical University",
-    graduationYear: 2025
+  Education: {
+    Degree: "B.Tech",
+    Grade: "I div with Honours"
+    University: "Dr. A.P.J. Abdul Kalam Technical University",
+    GraduationYear: 2025
   },
-  certifications: ["Web Development", "MySQL"]
+  Certifications: ["Web Development", "MySQL",]
 };
 
 console.log(Introduction);

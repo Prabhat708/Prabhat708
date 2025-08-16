@@ -29,11 +29,11 @@ const Introduction = {
   },
   Education: {
     Degree: "B.Tech",
-    Grade: "I div with Honours"
+    Grade: "I div with Honours",
     University: "Dr. A.P.J. Abdul Kalam Technical University",
     GraduationYear: 2025
   },
-  Certifications: ["Web Development", "MySQL",]
+  Certifications: ["Web Development", "MySQL"]
 };
 
 console.log(Introduction);

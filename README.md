@@ -7,9 +7,9 @@
 </div>
 
 <!--Header Name-->
-<div align='center'>
-<b> <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prabhat Verma! <br/>
-Software Engineer (Developer / Programmer) </h1></b></div>
+
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prabhat Verma! 
+*Software Engineer (Developer / Programmer)*
 
 <br />
 

@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 <div align='center'>
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prabhat Verma! </div>
+<b> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prabhat Verma! </b></div>
 *Software Engineer (Developer / Programmer)* 
 
 <br />

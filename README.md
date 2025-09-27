@@ -24,7 +24,7 @@ const Introduction = {
   Name: "Prabhat Verma",
   Title: "Full Stack Developer",
   Skills: {
-    Languages: ["MERN", "HTML", "CSS", "JavaScript", "Python"],
+    Languages: ["MERN", "HTML", "CSS", "JavaScript", "Python", "C#"],
     expertise: ["RESTful APIs", "Innovative Web Applications"]
   },
   Education: {

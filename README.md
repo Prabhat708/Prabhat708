@@ -53,7 +53,7 @@ console.log(Introduction);
 <!--Languages and Tools Section-->
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,express,django,md,mongo,git,vscode,postman&perline=7"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,express,django,asp.net,mongo,git,vscode,postman&perline=7"  />
 </p>
 <br />
 

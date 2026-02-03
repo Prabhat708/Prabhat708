@@ -9,7 +9,7 @@
 <!--Header Name-->
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prabhat Verma! 
-*Software Engineer (Developer / Programmer)*
+*Software Engineer | Full Stack Developer | Open Source Contributor*
 
 <br />
 
@@ -26,6 +26,13 @@ const Introduction = {
   Skills: {
     Languages: ["MERN", "HTML", "CSS", "JavaScript", "Python", "C#"],
     expertise: ["RESTful APIs", "Innovative Web Applications"]
+  },
+  OpenSource: {
+    Project: "pybgworker",
+    Description: "Lightweight background task worker for Python",
+    PublishedOn: "PyPI",
+    PublishedLink: "https://pypi.org/project/pybgworker"
+    Repo: "https://github.com/Prabhat708/pybgworker"
   },
   Education: {
     Degree: "B.Tech",
@@ -46,7 +53,24 @@ console.log(Introduction);
 - 🌱 Embracing each day as a learning opportunity; check my progress on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/prabhat708/).
 - 💻 Explore my [Portfolio](https://prabhat.great-site.net/) for a closer look at my journey.
 - 📂 View my code repositories on [GitHub](https://github.com/prabhat708).
+- 🌍 View my open-source contributions on [pypi](https://pypi.org/project/pybgworker).
 <!--Profile Count Badge-->
+## 🚀 Featured Open Source Project
+
+### pybgworker — Python Background Task Worker
+
+A lightweight SQLite-based background worker to execute tasks asynchronously in Python applications.
+
+✅ Task scheduling  
+✅ Retry mechanism  
+✅ Lightweight worker  
+✅ Production friendly  
+✅ Easy integration  
+
+### 📦 Installation
+
+```bash
+pip install pybgworker
 
 
 

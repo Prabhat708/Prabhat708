@@ -71,7 +71,7 @@ A lightweight SQLite-based background worker to execute tasks asynchronously in 
 
 ```bash
 pip install pybgworker
-
+```
 
 
 <!--Languages and Tools Section-->

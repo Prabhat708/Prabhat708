@@ -31,7 +31,7 @@ const Introduction = {
     Project: "pybgworker",
     Description: "Lightweight background task worker for Python",
     PublishedOn: "PyPI",
-    PublishedLink: "https://pypi.org/project/pybgworker"
+    PublishedLink: "https://pypi.org/project/pybgworker",
     Repo: "https://github.com/Prabhat708/pybgworker"
   },
   Education: {
